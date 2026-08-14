@@ -16,4 +16,4 @@
 ![Hapus Data](Screenshot/hapus.png)
 
 ## Koneksi Database
-![Koneksi Database](Screenshot/koneksi.png)
+![Koneksi Database](Screenshot/test_koneksi.png)
