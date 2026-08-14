@@ -1,11 +1,21 @@
-# UASPemrogramanWeb2
+# UAS Pemrograman Web 2
 
-![gambar](Screenshot/SS1.png)
+## Halaman Login
 
-![gambar](Screenshot/SS2.png)
+![Halaman Login](Screenshot/login.png)
 
-![gambar](Screenshot/SS3.png)
+## Dashboard Data Mahasiswa
 
-![gambar](Screenshot/SS4.png)
+![Dashboard](Screenshot/dashboard.png)
 
-![gambar](Screenshot/SS5.png)
+## Tambah Data Mahasiswa
+
+![Tambah Data](Screenshot/tambah.png)
+
+## Hapus Data Mahasiswa
+
+![Hapus Data](Screenshot/hapus.png)
+
+## Koneksi Database
+
+![Koneksi Database](Screenshot/koneksi.png)
