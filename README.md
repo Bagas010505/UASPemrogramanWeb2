@@ -1,7 +1,5 @@
 # UAS Pemrograman Web 2
 
-# UAS Pemrograman Web 2
-
 ## Halaman Login
 ![Halaman Login](Screenshot/login.png)
 
