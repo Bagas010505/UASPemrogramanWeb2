@@ -2,19 +2,23 @@
 
 ## Halaman Login
 
-![Halaman Login](Screenshot/login.png)
+![Halaman Login](Screenshot/HalamanLogin.png)
 
 ## Dashboard Data Mahasiswa
 
-![Dashboard](Screenshot/dashboard.png)
+![Dashboard](Screenshot/DashboardDataMahasiswa.png)
 
 ## Tambah Data Mahasiswa
 
-![Tambah Data](Screenshot/tambah.png)
+![Tambah Data](Screenshot/TambahDataMahasiswa.png)
+
+## Hasil Tambah Mahasiswa
+
+![Tambah Data](Screenshot/HasilTambah.png)
 
 ## Hapus Data Mahasiswa
 
-![Hapus Data](Screenshot/hapus.png)
+![Hapus Data](Screenshot/HasilHapus.png)
 
 ## Koneksi Database
 
